@@ -1,9 +1,9 @@
 ### Who?🤔
 👋 Hi there! I'm front-end web developer.</br>
-Sometimes I develop mobile app using Flutter(Dart) or Android Studio(Kotlin), but I prefer web-design.⚡
+Sometimes I develop mobile app using Flutter(Dart) or Android Studio(Kotlin), but I prefer web-design.⚡</br>
 
-I enjoy going to media art exhibitions, painting, hiking.
-I hope to develop something that benefit society.👯
+I enjoy going to media art exhibitions, painting, hiking.</br>
+I hope to develop something that benefit society.👯</br>
 
 
 <!--
