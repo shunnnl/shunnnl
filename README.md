@@ -1,11 +1,8 @@
-### Who?🤔
-👋 Hi there! I'm front-end web developer.</br>
-Sometimes I develop mobile app using Flutter(Dart) or Android Studio(Kotlin), but I prefer web-design.⚡</br>
-
-I enjoy going to media art exhibitions, painting, hiking.</br>
-I hope to develop something that benefit society.👯</br>
+# Ha Si Yun 
+### 👋 Hi there! I'm front-end web developer.</br>Sometimes I develop mobile app using Flutter(Dart) or Android Studio(Kotlin), but I prefer web-design.⚡</br></br>I enjoy going to media art exhibitions, painting, hiking.</br>I hope to develop something that benefit society.👯</br>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=본인깃허브ID&layout=compact&theme=본인이선택한테마명&langs_count=보여주고싶은언어개수)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **shunnnl/shunnnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
