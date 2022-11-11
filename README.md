@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Hi there! I'm front-end web developer.
+Sometimes I develop mobile app using Flutter(Dart) or Android Studio(Kotlin), but I prefer web-design.🤔⚡
+
+I enjoy going to media art exhibitions, painting, hiking.
+I hope to develop something that benefit society.👯
+
 
 <!--
 **shunnnl/shunnnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
