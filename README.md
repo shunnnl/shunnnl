@@ -1,5 +1,5 @@
 ### Who?🤔
-👋 Hi there! I'm front-end web developer.
+👋 Hi there! I'm front-end web developer.</br>
 Sometimes I develop mobile app using Flutter(Dart) or Android Studio(Kotlin), but I prefer web-design.⚡
 
 I enjoy going to media art exhibitions, painting, hiking.
