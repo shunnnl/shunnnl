@@ -1,8 +1,10 @@
 # Ha Si Yun 
 ### 👋 Hi there! I hope to be front-end web developer.</br>Sometimes I develop mobile app using Flutter(Dart) or Android Studio(Kotlin), but I prefer web-design.⚡</br></br>I enjoy going to media art exhibitions, painting, hiking.</br>I hope to develop something that benefit society.👯</br>
 
+## 💻 My Stack
+<img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/> <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=본인깃허브ID&layout=compact&theme=본인이선택한테마명&langs_count=보여주고싶은언어개수)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **shunnnl/shunnnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
