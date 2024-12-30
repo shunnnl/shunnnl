@@ -2,7 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&text=hello%20shunnnl!&descAlign=20)
   
-<br/>
 
 ### ⚒️ Tech Stack ⚒️
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -15,7 +14,12 @@
 ### 💻 GitHub Stats 💻
 ![shunnnl's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunnnl&show_icons=true)
 
-<br/><br/>
+<br/>
+
+### 💻 Algorithm Stats 💻
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shunning)](https://solved.ac/shunning/)
+
+<br/>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
