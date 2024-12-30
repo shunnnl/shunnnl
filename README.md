@@ -1,5 +1,34 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&text=hello%20shunnnl!&descAlign=20)
+  
+<br/>
 
+### ⚒️ Tech Stack ⚒️
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+
+<br/><br/>
+
+### 💻 GitHub Stats 💻
+![shunnnl's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunnnl&show_icons=true)
+
+<br/><br/>
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://velog.io/@shunnnl">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:siyun2072@gmail.com">
+    <img
+      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
+
+</div>
 
 <!--
 **shunnnl/shunnnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
