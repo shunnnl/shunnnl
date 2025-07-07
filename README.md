@@ -4,7 +4,6 @@
 
 </div>
 
-
 ## 📫 Contact 📫
 <div align="left">
   <a href="https://velog.io/@shunnnl">
@@ -78,25 +77,8 @@
 ![Figma](https://img.shields.io/static/v1?label=Figma&message=Design&labelColor=4B4B4B&color=F24E1E&logo=figma&logoColor=white)
 ![Swagger](https://img.shields.io/static/v1?label=Swagger&message=UI&labelColor=4B4B4B&color=85EA2D&logo=swagger&logoColor=black)
 
-
-
 ## 💻 Stats
 ![shunnnl's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunnnl&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shunnnnl)](https://solved.ac/shunnnnl/)
 
 <br/>
-
-<!--
-**shunnnl/shunnnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
